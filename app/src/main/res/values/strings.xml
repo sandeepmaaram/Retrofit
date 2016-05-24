@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="contacts_url">http://api.androidhive.info/contacts/</string>
+</resources>
