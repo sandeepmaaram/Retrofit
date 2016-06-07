@@ -8,8 +8,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
  */
 public class ApiClient {
     /*public static final String BASE_URL = "http://api.androidhive.info/";*/
-    //public static final String BASE_URL = "http://api.geonames.org/";
-    public static final String BASE_URL = "http://bookmytoll.raybiztech.net/bmtservices/api/";
+    public static final String BASE_URL = "http://api.geonames.org/";
     private static Retrofit retrofit = null;
 
 
